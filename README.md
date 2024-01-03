@@ -24,7 +24,6 @@ Books are organized into the following categories:
 ### H
 
  - Hall, P., Curtis, J., & Pandey, P. (2023). *Machine Learning for High-Risk Applications*. Compliments of Dataiku. O'Reilly Media.
-<<<<<<< HEAD
  - Huyen, C. (2022). *Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications*. O'Reilly Media.
 
 ## [Research](<Research>)
