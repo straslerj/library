@@ -1,7 +1,11 @@
 # Library
-A collection of books that I have read or want to read.
+A collection of books that I have read or want to read that are in some way related to data science, software engineering, machine learning, and so on with a few books sprinkled in that have been tangentially beneficial to my journey in the aforementioned fields.
 
 Books are organized into the following categories:
+
+\* *denotes I have read the book in its entirety.*
+
+\~ *denotes I have read parts of the book or am currently reading it.*
 
 ## [Data Engineering](<Data Engineering>)
 
@@ -17,7 +21,7 @@ Books are organized into the following categories:
 
 ### P
 
- - Provost, F., & Fawcett, T. (2013). *Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking*. O'Reilly Media.
+ - \*Provost, F., & Fawcett, T. (2013). *Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking*. O'Reilly Media.
 
 ## [Machine Learning Engineering](<Machine Learning Engineering>)
 
@@ -30,7 +34,7 @@ Books are organized into the following categories:
 
 ### M
 
- - Mulaney, T., & Rea, C. (2022). *Where Research Begins: Choosing a Research Project that Matters to You (and the World)*. University of Chicago Press.
+ - \~ Mulaney, T., & Rea, C. (2022). *Where Research Begins: Choosing a Research Project that Matters to You (and the World)*. University of Chicago Press.
 
 ## [Statistics](<Statistics>)
 
