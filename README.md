@@ -5,7 +5,9 @@ Books are organized into the following categories:
 
 \* *denotes I have read the book in its entirety.*
 
-\~ *denotes I have read parts of the book or am currently reading it.*
+\~ *denotes I have read parts of the book.*
+
+\^ *denotes I am currently reading the book.*
 
 ## [Data Engineering](<Data Engineering>)
 
@@ -17,7 +19,7 @@ Books are organized into the following categories:
 
 ### G
 
- - Grus, J. (2019). *Data Science from Scratch: First Principles with Python*. O'Reilly Media.
+ - \~ Grus, J. (2019). *Data Science from Scratch: First Principles with Python*. O'Reilly Media.
 
 ### P
 
@@ -34,7 +36,7 @@ Books are organized into the following categories:
 
 ### M
 
- - \~ Mulaney, T., & Rea, C. (2022). *Where Research Begins: Choosing a Research Project that Matters to You (and the World)*. University of Chicago Press.
+ - \^ Mulaney, T., & Rea, C. (2022). *Where Research Begins: Choosing a Research Project that Matters to You (and the World)*. University of Chicago Press.
 
 ## [Statistics](<Statistics>)
 
