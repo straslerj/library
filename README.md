@@ -23,7 +23,7 @@ Books are organized into the following categories:
 
 ### P
 
- - \*Provost, F., & Fawcett, T. (2013). *Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking*. O'Reilly Media.
+ - \* Provost, F., & Fawcett, T. (2013). *Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking*. O'Reilly Media.
 
 ## [Machine Learning Engineering](<Machine Learning Engineering>)
 
