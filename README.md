@@ -45,6 +45,9 @@ Books are organized into the following categories:
 ### A
 
  - Albert, J. (2017). *Teaching Statistics Using Baseball*. American Mathematical Society.
- - \* Larson, R., & Farber, E. (1999). *Elementary statistics: Picturing the world*. Pearson Education. *(Physical copy only; no PDF to link.)*
+ - Albert, J. (2022). *A course in Exploratory Data Analysis*.
+   - Published in an online format: https://bayesball.github.io/EDA/.
+ - \* Larson, R., & Farber, E. (1999). *Elementary statistics: Picturing the world*. Pearson Education.
+   - Physical copy only; no PDF to link.
 
 
