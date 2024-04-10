@@ -38,7 +38,7 @@ Books are organized into the following categories:
 
  - \* Mineault, T. (2021). *Good Research Code Handbook*. Zenodo.
 
- - \^ Mulaney, T., & Rea, C. (2022). *Where Research Begins: Choosing a Research Project that Matters to You (and the World)*. University of Chicago Press.
+ - \~ Mulaney, T., & Rea, C. (2022). *Where Research Begins: Choosing a Research Project that Matters to You (and the World)*. University of Chicago Press.
 
 ## [Statistics](<Statistics>)
 
