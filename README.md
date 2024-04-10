@@ -45,7 +45,7 @@ Books are organized into the following categories:
 ### A
 
  - Albert, J. (2017). *Teaching Statistics Using Baseball*. American Mathematical Society.
- - Albert, J. (2022). *A course in Exploratory Data Analysis*.
+ - Albert, J. (2022). *A Course in Exploratory Data Analysis*.
  - \* Larson, R., & Farber, E. (1999). *Elementary statistics: Picturing the world*. Pearson Education.
    - Physical copy only; no PDF to link.
 
